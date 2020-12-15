@@ -395,12 +395,12 @@ html {
     font-size: 3rem;
 }
 
-.linkedln a {
+.contact-form h2 a {
     color: #fff;
     cursor: pointer;
 }
 
-.linkedln a:hover {
+.contact-form h2 a:hover {
     color: rgba(162, 222, 208, .8);
     font-weight: 700;
 }
